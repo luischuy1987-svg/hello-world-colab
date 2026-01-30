@@ -1,1 +1,1 @@
-hola esto es parte de mi tarea, adios.
+Este es mi archivo de práctica Git
